@@ -1,0 +1,32 @@
+[
+    {
+        "firstName": "teste",
+        "lastName": "anna",
+        "adress": "rua ceará n 365",
+        "emailAdress": "ana@gmail.com",
+        "radioGender": "f",
+        "checks": [
+            "Netflix",
+            "Dormir"
+        ],
+        "selectCountries": "Nova Zelandia",
+        "selectYears": "2000",
+        "selectMonths": "Outubro",
+        "pwd": "Anna123"
+    },
+    {
+        "firstName": "vic",
+        "lastName": "anna",
+        "adress": "rua ceará n 365",
+        "emailAdress": "vic@email.com",
+        "radioGender": "m",
+        "checks": [
+            "Netflix",
+            "Dormir"
+        ],
+        "selectCountries": "Nova Zelandia",
+        "selectYears": "2000",
+        "selectMonths": "Outubro",
+        "pwd": "Anna123"
+    }
+]
