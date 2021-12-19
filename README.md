@@ -1,2 +1,5 @@
 # testesautomatizadoscypress
+<<<<<<< HEAD
 
+=======
+>>>>>>> git 
